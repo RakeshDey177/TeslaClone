@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+  font-family: "Rubik", sans-serif;
+  color: #393c41;
+  margin: 0;
+  padding: 0;
+}
+
+a{
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+/* p{
+  font-weight: 600;
+  padding: 0 10px;
+  flex-wrap: no-wrap;
+} */
+
+body {
+  width: 100%;
+  overflow-x: hidden;
+}
+
+
